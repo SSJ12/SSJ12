@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @SSJ12
-- 👀 I’m interested in html
-- 🌱 I’m currently learning html
-- ☹️ I only Know html and css
+hi
 
 
 <!---
